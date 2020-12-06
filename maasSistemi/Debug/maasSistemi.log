@@ -1,0 +1,10 @@
+﻿  BasePlusCommissionEmployee.cpp
+  CommissionEmployee.cpp
+  Date.cpp
+  Employee.cpp
+  maasSistemi.cpp
+C:\Users\Emirhan Doğandemir\Desktop\githubProjects\maasSistemi\maasSistemi\maasSistemi.cpp(43,11): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  SalariedEmployee.cpp
+  Kod Üretiliyor...
+C:\Users\Emirhan Doğandemir\Desktop\githubProjects\maasSistemi\maasSistemi\Date.cpp(40): warning C4715: 'Date::checkDay': tüm denetim yolları değer döndürmez
+  maasSistemi.vcxproj -> C:\Users\Emirhan Doğandemir\Desktop\githubProjects\maasSistemi\Debug\maasSistemi.exe
