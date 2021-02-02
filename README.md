@@ -5,5 +5,8 @@ Bir şirket haftalık olarak çalışanlarına ödeme yapar . Çalışanlar 3 Ti
 
 
 
+![C++](https://user-images.githubusercontent.com/74687192/106639451-0519aa80-6596-11eb-9109-4b9ed764df0c.PNG)
+
+
 
 
